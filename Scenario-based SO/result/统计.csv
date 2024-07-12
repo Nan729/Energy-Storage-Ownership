@@ -1,0 +1,20 @@
+﻿,,,Risk-Neutral,Risk-Averse,
+,,,,"(0.95, 0.95)","(0.95, 0.7)"
+In-Sample Analysis,Joint,Optimal Value,9.46E+05,7.78E+05,7.78E+05
+,Disjoint,Optimal Storage,7.12E+04,5.98E+04,6.26E+04
+,,Optimal Wind,8.75E+05,7.09E+05,7.09E+05
+,,Optimal Sum,9.46E+05,7.69E+05,7.72E+05
+,Value for RES,,7.12E+04,6.94E+04,6.94E+04
+,Value for Arbitrageur,,7.12E+04,5.98E+04,6.26E+04
+Out-of-Sample Analysis,Joint,Avg Optimal Value,9.47E+05,8.84E+05,8.84E+05
+,,SVD,9.43E+04,5.18E+04,5.18E+04
+,Disjoint,Avg Optimal Storage,7.14E+04,6.95E+04,6.98E+04
+,,SVD storage,9.22E+03,7.47E+03,7.43E+03
+,,Avg Wind,8.75E+05,8.00E+05,8.00E+05
+,,SVD wind,9.28E+04,4.40E+04,4.40E+04
+,,Avg Sum,9.47E+05,8.70E+05,8.70E+05
+,,SVD Sum,9.43E+04,4.62E+04,5.14E+04
+,Value for RES,Avg,7.14E+04,8.33E+04,8.33E+04
+,,SVD,9.22E+03,1.34E+04,1.34E+04
+,Value for Arbitrageur,Avg,7.14E+04,6.95E+04,6.98E+04
+,,SVD,9.22E+03,7.47E+03,7.43E+03
